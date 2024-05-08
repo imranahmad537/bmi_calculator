@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color:wheat;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:15% 0 ;   
+}
+.height
+ {
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.weight{
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.calculate{
+    margin-top: 10px;
+    padding: 4px 10px 4px 10px;
+}
+.result{
+    margin-top: 5px;
+}
+.calculate:hover{
+    background-color: gray;
+
+}
